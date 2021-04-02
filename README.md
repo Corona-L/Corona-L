@@ -5,7 +5,7 @@
 <p>
 I’m a Full Stack developer based in the heart of Germany. I like developing apps and software that help to bring joy into people’s lives.
 </p>
-At the moment, I’m working on an awesome project that focuses on bringing social equity to those that need it most.
+At the moment, I’m working on an awesome project that focuses on bringing social equity to those that need it most.  
 
 
 **Weapons of Choice:**  
